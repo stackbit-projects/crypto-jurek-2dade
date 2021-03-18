@@ -1,0 +1,25 @@
+title: Grayscale
+email: your-email@domain.com
+url: ''
+description: >-
+  Write an awesome description for your new site here. You can edit this line in
+  _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+footer: Your Website
+social:
+  - title: twitter
+    url: 'https://twitter.com/SBootstrap'
+  - title: facebook
+    url: null
+  - title: stack-overflow
+    url: 'http://stackoverflow.com/questions/tagged/jekyll'
+  - title: bitbucket
+    url: 'http://bitbucket.org/jekyll'
+  - title: github
+    url: 'https://github.com/IronSummitMedia/startbootstrap'
+markdown: kramdown
+permalink: pretty
+baseurl: ''
